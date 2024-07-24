@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+#section1{
+    background-image: url("https://www.sktravels.in/wp-content/uploads/2020/08/sk-travels-banner-1.jpg?id=15502");
+    padding: 120px 0px;
+    background-position: center;
+    margin-bottom: 100px;
+}
+
+#section1 h1{
+    color: white;
+    font-size: 54px;
+    list-style: 70px;
+    margin-bottom: 40px;
+}
+
+#section1 p{
+    color: white;
+    font-size: 18px;
+    list-style: 28px;
+    margin-bottom: 50px;
+}
+
+#section1-inner-contents{
+    width: 650px;
+}
+
+#section1-inner-contents a{
+    background-color: #fd7350 ;
+    color: white;
+    font-size: 18px;
+    list-style: 28px;
+    padding: 12px 29px;
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+    border-radius: 5px;
+}
